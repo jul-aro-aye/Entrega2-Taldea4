@@ -89,7 +89,7 @@
             this.Controls.Add(this.erabiltzaileLabel);
             this.Controls.Add(this.saioaHasiBotoia);
             this.Name = "Login";
-            this.Text = "Form1";
+            this.Text = "Logina";
             this.ResumeLayout(false);
             this.PerformLayout();
 

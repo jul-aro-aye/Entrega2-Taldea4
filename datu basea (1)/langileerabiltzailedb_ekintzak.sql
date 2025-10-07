@@ -18,6 +18,7 @@
 --
 -- Table structure for table `ekintzak`
 --
+use entrega2;
 
 DROP TABLE IF EXISTS `ekintzak`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;

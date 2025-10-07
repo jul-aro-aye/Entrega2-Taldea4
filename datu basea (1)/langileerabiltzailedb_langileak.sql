@@ -19,6 +19,8 @@
 -- Table structure for table `langileak`
 --
 
+use entrega2;
+
 DROP TABLE IF EXISTS `langileak`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
